@@ -14,9 +14,13 @@ public class Myproject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("Hello Word");
         System.out.println("Hello java");
         System.out.println("Hello programming");
+=======
+        // TODO code application logic here
+>>>>>>> parent of bb2c2c1 (version1.1)
     }
     
 }
